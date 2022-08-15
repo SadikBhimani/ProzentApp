@@ -1,14 +1,19 @@
 {
-    "name": "krievley/learning-laravel",
+    "name": "tighten/learning-laravel",
     "type": "project",
     "description": "A project to guide you in learning to code in Laravel.",
-    "keywords": ["framework"],
+    "keywords": [
+        "laravel",
+        "learning-laravel",
+        "tighten",
+        "php"
+    ],
     "license": "MIT",
     "authors": [
         {
             "name": "Kristin Collins",
-            "email": "7070136+krievley@users.noreply.github.com",
-            "homepage": "https://github.com/krievley"
+            "email": "kristin.collins@tighten.co",
+            "homepage": "https://tighten.com"
         }
     ],
     "require": {
